@@ -11,4 +11,4 @@ tags:
  - 条理
 ---
 
-![jpg](https://maggienning.github.io/assets/images/2018-03-18-think-on-your-feet/1.jpg)
+![jpg](https://maggienning.github.io/assets/images/posts/2018-03-18-think-on-your-feet/1.jpg)
