@@ -41,8 +41,8 @@ tags:
 
 #### 2.、数据分析的几种方法
 1. 内外因素分解法
-    * ![jpg](https://maggienning.github.io/assets/images/posts/2018-04-02-operation-data-analysis/1.png)
-    * 内外因素分解法是把问题拆成四部分，包括内部因素、外部因素、可控和不可控，然后再一步步解决每一个问题
+    * ![1](https://maggienning.github.io/assets/images/posts/2018-04-02-operation-data-analysis/1.png)
+    * 内外因素分解法是把问题拆成四部分，包括内部因素、外部因素、可控和不可控，然后再一步步解决每一个问题
     1. 内部可控因素
         * 产品近期上线更新、市场投放渠道变化、产品粘性、新老用户留存问题、核心目标的转化；
     2. 外部可控因素
@@ -52,7 +52,7 @@ tags:
     4. 外部不可控因素
             * 行业趋势、整体经济形势、季节性变化；
 2. DOSS
-    * ![jpg](https://maggienning.github.io/assets/images/posts/2018-04-02-operation-data-analysis/2.png)
+    * ![2](https://maggienning.github.io/assets/images/posts/2018-04-02-operation-data-analysis/2.png)
     * DOSS 是从一个具体问题拆分到整体影响，从单一的解决方案找到一个规模化解决方案的方式，按 DOSS 的思路分解如下：
     1. 具体问题
         * 预测是否有可能帮助某一群组客户购买课程。
